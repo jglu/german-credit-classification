@@ -7,4 +7,4 @@ This dataset comes courtesy from the UC Irvine Machine Learning Repository.
 (README is under construction)
 
 ## License
-[No License](https://choosealicense.com/no-permission/). Will likely change in the future
+[MIT](LICENSE)
